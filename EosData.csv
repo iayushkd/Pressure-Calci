@@ -1,0 +1,13 @@
+Component ,Composition ,Tc(K),Pc (Mpa),Accentric Factor
+Methane,0.05,190.4,4.6,0.011
+Ethane,0.1,305.4,4.88,0.099
+Propane,0.05,369.8,4.25,0.152
+n-Butane,0.1,425.2,3.8,0.2
+iso-Butane,0.05,408.2,3.65,0.1835
+n-Pentane,0.1,469.7,3.37,0.251
+iso-Pentane,0.1,460.4,3.34,0.2274
+n-Hexane,0.05,507.5,3.01,0.301
+n-Heptane,0.15,540.3,2.74,0.35
+n-Octane,0.1,568.8,2.49,0.398
+n-Nonane ,0.1,595.1,2.3,0.445
+n-Decane,0.05,645.5,2.39,0.4884
